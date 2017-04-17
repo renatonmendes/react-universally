@@ -1,5 +1,6 @@
 <p align='center'>
-  <h1 align='center'>React, Universally. This is a test fork for hot-reloading. Please check the original version at https://github.com/ctrlplusb/react-universally</h1>
+  <h1 align='center'>React, Universally. This is a test fork for hot-reloading and shall not be used as a base project</h1>
+  <h1>Please use the original version at https://github.com/ctrlplusb/react-universally</h1>
   <p align='center'><img width='150' src='https://raw.githubusercontent.com/ctrlplusb/assets/master/logos/react-universally.png' /></p>
   <p align='center'>A starter kit for universal react applications.</p>
 </p>
